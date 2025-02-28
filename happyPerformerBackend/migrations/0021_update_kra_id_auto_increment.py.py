@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 from django.db import migrations
 
 class Migration(migrations.Migration):
@@ -19,7 +19,7 @@ class Migration(migrations.Migration):
             OWNED BY happyPerformerBackend_kra.kra_id;
         """)
     ]
-=======
+
 from django.db import migrations
 
 class Migration(migrations.Migration):
@@ -40,4 +40,3 @@ class Migration(migrations.Migration):
             OWNED BY happyPerformerBackend_kra.kra_id;
         """)
     ]
->>>>>>> 174a167 (backend1)
